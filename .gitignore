@@ -17,7 +17,7 @@
 .byebug_history
 
 .DS_Store
-db/*.sqlite3
+db/*.sqlite3*
 
 public/system
 .env
